@@ -1,0 +1,551 @@
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+d:\Users\91\Desktop\diskOnKey2\projectLesson\serverSide\ASP1- 1.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+D:\ProjectChaniKaniel\ASP2 -2.2.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏ASP3 -13.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏ASP3 -15.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏ASP3 -16.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏ASP3 -19.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏ASP3-23.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏ASP3-26.4.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-24.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-26.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.AssemblyReference.cache
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+E:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-31.5.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-1.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-2.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-3.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-4.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-6.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-7.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-8.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-10.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-11.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-14.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-15.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-16.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-17.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-18.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-19.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-21.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+G:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-22.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-23.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-27.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+d:\Users\91\Desktop\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ASP3-28.6.21\DeliverySystemSolution\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache

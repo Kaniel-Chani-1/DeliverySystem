@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <title>מחשבון ריבית דריבית</title>
+    <style>
+        body { font-family: Arial, sans-serif; direction: rtl; margin: 2em; }
+        label { display: block; margin-top: 1em; }
+        input { margin-top: 0.5em; }
+        button { margin-top: 1em; }
+        #result { margin-top: 1em; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>מחשבון ריבית דריבית</h1>
+    <label>
+        סכום התחלתי (קרן):
+        <input type="number" id="principal" />
+    </label>
+    <label>
+        שיעור ריבית שנתית (%):
+        <input type="number" id="rate" />
+    </label>
+    <label>
+        מספר תקופות (בשנים):
+        <input type="number" id="years" />
+    </label>
+    <button onclick="calculate()">חשב</button>
+    <div id="result"></div>
+
+    <script>
+        function calculate() {
+            var principal = parseFloat(document.getElementById('principal').value) || 0;
+            var rate = parseFloat(document.getElementById('rate').value) || 0;
+            var years = parseFloat(document.getElementById('years').value) || 0;
+
+            var finalAmount = principal * Math.pow(1 + rate / 100, years);
+            document.getElementById('result').innerText =
+                'סכום סופי: ' + finalAmount.toFixed(2);
+        }
+    </script>
+</body>
+</html>

@@ -41,6 +41,10 @@ namespace DeliverySystem
             }
 
 
+
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
             app.UseRouting();
             app.UseCors();
 
